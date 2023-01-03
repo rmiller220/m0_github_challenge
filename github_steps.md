@@ -11,3 +11,5 @@ Describe in your own words how to establish a connection between a local reposit
 
 1. new change
 2. go warriors
+
+i think i am getting more familiar
